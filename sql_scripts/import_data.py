@@ -1,7 +1,7 @@
 
 
 import pandas as pd
-from utils import get_engine
+from sql_scripts.utils import get_engine
 from models import Eptica,Telephonie
 from sqlalchemy.orm import sessionmaker
 engine = get_engine()

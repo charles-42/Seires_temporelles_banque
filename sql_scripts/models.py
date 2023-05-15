@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import DeclarativeBase
 from sqlalchemy.orm import Mapped
 from sqlalchemy.orm import mapped_column
-from utils import get_engine
+from sql_scripts.utils import get_engine
 
 
 class Base(DeclarativeBase):
