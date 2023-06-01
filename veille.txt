@@ -1,0 +1,21 @@
+Date,Entite,instance,Nb_recus
+2020-05-01,Entite 1,SAV,5
+2020-05-01,Entite 2,COMMERCE,8
+2020-05-02,Entite 1,SAV,10
+2020-05-02,Entite 2,COMMERCE,9
+2020-05-03,Entite 1,SAV,5
+2020-05-03,Entite 2,COMMERCE,14
+2020-05-04,Entite 1,SAV,8
+2020-05-04,Entite 2,COMMERCE,9
+
+
+
+Mean Absolute Percentage Error (MAPE)
+Mean Error (ME)
+Mean Absolute Error (MAE)
+Mean Percentage Error (MPE)
+Root Mean Squared Error (RMSE)
+Lag 1 Autocorrelation of Error (ACF1)
+Correlation between the Actual and the Forecast (corr)
+Min-Max Error (minmax)
+MdRAE

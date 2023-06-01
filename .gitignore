@@ -1,7 +1,7 @@
-data/
 trash.ipynb
 commands.sql
-
+images/
+veille.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
